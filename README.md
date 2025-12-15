@@ -50,32 +50,6 @@
 sentinel . Unlike passive recording tools, this system employs active 
 Computer Vision algorithms to monitor environments in real-time.
 
-## [TACTICAL CAPABILITIES]
-
-The system operates on a "Zero-Trust" protocol. It remains dormant 
-during inactivity to conserve resources but instantly engages upon 
-detecting micro-movements. 
-
-1. **TARGET ACQUISITION**: 
-   The engine locks onto moving subjects, visualizing threats with a 
-   dynamic Green Tracking Box.
-
-2. **FORENSIC CAPTURE**: 
-   It simultaneously secures high-definition Video (.mp4) and 
-   crystal-clear Audio (.wav) evidence, ensuring no detail is lost.
-
-3. **STEALTH OPERATIONS**: 
-   Equipped with a 'Ghost Mode', the system runs invisibly in the 
-   background, monitoring threats without detection.
-
-## [CONCLUSION]
-
-In an era where privacy is compromised, Spy Detector Pro restores 
-control. It provides undeniable proof of intrusion, optimized specifically 
-for the modern Windows 11 ecosystem.
-
-*"We do not just watch. We document."*
-
 --- 
 
 ## ⚡ Key Capabilities
@@ -156,4 +130,5 @@ This software is for Educational & Security Research purposes only. Use responsi
 <img src="https://img.shields.io/badge/Built_Different-SIGMA-black?style=for-the-badge&logo=github" alt="Sigma Badge">
 
 </div>
+
 
