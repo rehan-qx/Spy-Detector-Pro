@@ -13,14 +13,14 @@
 <br>
 
 ```text
-     █████████████████████████████████████████████████████████████
-     █                                                           █
-     █   [PROJECT] : SPY DETECTOR PRO                            █
-     █   [VERSION] : v2.0 (Windows 11 Optimized)                 █
-     █   [AUTHOR]  : [Muhammad Rehan Afzal]                      █
-     █   [STATUS]  : OPERATIONAL                                 █
-     █                                                           █
-     █████████████████████████████████████████████████████████████
+                         █████████████████████████████████████████████████████████████
+                         █                                                           █
+                         █   [PROJECT] : SPY DETECTOR PRO                            █
+                         █   [VERSION] : v2.0 (Windows 11 Optimized)                 █
+                         █   [AUTHOR]  : [Muhammad Rehan Afzal]                      █
+                         █   [STATUS]  : OPERATIONAL                                 █
+                         █                                                           █
+                         █████████████████████████████████████████████████████████████
 ```
 
 </div>
@@ -128,6 +128,7 @@ This software is for Educational & Security Research purposes only. Use responsi
 <img src="https://img.shields.io/badge/Built_Different-SIGMA-black?style=for-the-badge&logo=github" alt="Sigma Badge">
 
 </div>
+
 
 
 
