@@ -22,7 +22,11 @@
 █                                                           █
 █████████████████████████████████████████████████████████████
 ```
-![Spy System HUD](screenshot.png)
+
+<div align="center">
+ ![Spy System HUD Demo](demo.gift)
+  <p><i>(🔴 Live System Demonstration)</i></p>
+</div>
 
 </div>
 
@@ -128,6 +132,7 @@ This software is for Educational & Security Research purposes only. Use responsi
 <img src="https://img.shields.io/badge/Built_Different-SIGMA-black?style=for-the-badge&logo=github" alt="Sigma Badge">
 
 </div>
+
 
 
 
