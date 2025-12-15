@@ -1,0 +1,26 @@
+
+("===================================================")
+("   🕵️‍♂️  S P Y   D E T E C T O R   P R O   v 2.0")
+("===================================================")
+
+installation Dependencies:
+--------------------------
+
+opencv-python
+pyaudio
+numpy
+
+"🚀 Isay Run Kaise Karein?"
+
+Project setup karte waqt sirf ye command Terminal mein lagani hogi:
+
+"Bash"
+
+pip install -r requirements.txt
+
+"💡 Pro Tip for windows users: If PyAudio installation fails, please use the following commands:"
+
+""Bash""
+
+pip install pipwin
+pipwin install pyaudio
